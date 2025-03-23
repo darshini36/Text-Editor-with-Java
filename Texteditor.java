@@ -5,7 +5,7 @@
  //Texteditor class starts here  
  class Texteditor extends Frame implements ActionListener  
  {  
- TextArea ta=new TextArea();  
+ TextArea ta=new TextArea();
  int i,len1,len,pos1;  
  String str="",s3="",s2="",s4="",s32="",s6="",s7="",s8="",s9="";  
  String months[]={"January","February","March","April","May","June","July","August","September","October","November","December"};  
